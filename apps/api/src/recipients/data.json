@@ -1,0 +1,202 @@
+[
+  {
+    "nickname": "JohnnyD",
+    "email": "johndoe123@email.com",
+    "id": 1
+  },
+  {
+    "nickname": "SassySarah",
+    "email": "sarahsmith456@email.com",
+    "id": 2
+  },
+  {
+    "nickname": "MikeyB",
+    "email": "mikebrown789@email.com",
+    "id": 3
+  },
+  {
+    "nickname": "EmiJ",
+    "email": "emilyjones012@email.com",
+    "id": 4
+  },
+  {
+    "nickname": "DaveW",
+    "email": "davidwilson345@email.com",
+    "id": 5
+  },
+  {
+    "nickname": "JenLee",
+    "email": "jenniferlee678@email.com",
+    "id": 6
+  },
+  {
+    "nickname": "ChrisR",
+    "email": "chrisroberts901@email.com",
+    "id": 7
+  },
+  {
+    "nickname": "AmyC",
+    "email": "amycarter234@email.com",
+    "id": 8
+  },
+  {
+    "nickname": "MattyH",
+    "email": "matthewhill567@email.com",
+    "id": 9
+  },
+  {
+    "nickname": "LivvyL",
+    "email": "olivialopez890@email.com",
+    "id": 10
+  },
+  {
+    "nickname": "AlexC",
+    "email": "alexandercook123@email.com",
+    "id": 11
+  },
+  {
+    "nickname": "SophM",
+    "email": "sophiamorgan456@email.com",
+    "id": 12
+  },
+  {
+    "nickname": "DannyG",
+    "email": "danielgreen789@email.com",
+    "id": 13
+  },
+  {
+    "nickname": "EmsW",
+    "email": "emmawhite012@email.com",
+    "id": 14
+  },
+  {
+    "nickname": "KevM",
+    "email": "kevinmartinez345@email.com",
+    "id": 15
+  },
+  {
+    "nickname": "AliB",
+    "email": "aliciabrown678@email.com",
+    "id": 16
+  },
+  {
+    "nickname": "PatM",
+    "email": "patrickmiller901@email.com",
+    "id": 17
+  },
+  {
+    "nickname": "SophP",
+    "email": "sophiephillips234@email.com",
+    "id": 18
+  },
+  {
+    "nickname": "WillS",
+    "email": "williamscott567@email.com",
+    "id": 19
+  },
+  {
+    "nickname": "MadiS",
+    "email": "madisonstewart890@email.com",
+    "id": 20
+  },
+  {
+    "nickname": "RyanS",
+    "email": "ryansanchez123@email.com",
+    "id": 21
+  },
+  {
+    "nickname": "GracieF",
+    "email": "graceflores456@email.com",
+    "id": 22
+  },
+  {
+    "nickname": "JakeH",
+    "email": "jacobhill789@email.com",
+    "id": 23
+  },
+  {
+    "nickname": "VickyC",
+    "email": "victoriacox012@email.com",
+    "id": 24
+  },
+  {
+    "nickname": "ChrisW",
+    "email": "christopherward345@email.com",
+    "id": 25
+  },
+  {
+    "nickname": "HannahM",
+    "email": "hannahmurphy678@email.com",
+    "id": 26
+  },
+  {
+    "nickname": "NateR",
+    "email": "nathanrodriguez901@email.com",
+    "id": 27
+  },
+  {
+    "nickname": "AveL",
+    "email": "averylopez234@email.com",
+    "id": 28
+  },
+  {
+    "nickname": "JessB",
+    "email": "jessicabell567@email.com",
+    "id": 29
+  },
+  {
+    "nickname": "ZachP",
+    "email": "zacharyperez890@email.com",
+    "id": 30
+  },
+  {
+    "nickname": "SophW",
+    "email": "sophiewright123@email.com",
+    "id": 31
+  },
+  {
+    "nickname": "BranJ",
+    "email": "brandonjohnson456@email.com",
+    "id": 32
+  },
+  {
+    "nickname": "IzzyT",
+    "email": "isabellataylor789@email.com",
+    "id": 33
+  },
+  {
+    "nickname": "GabeC",
+    "email": "gabrielcollins012@email.com",
+    "id": 34
+  },
+  {
+    "nickname": "MiaE",
+    "email": "miaedwards345@email.com",
+    "id": 35
+  },
+  {
+    "nickname": "LukeR",
+    "email": "lucasrogers678@email.com",
+    "id": 36
+  },
+  {
+    "nickname": "AbbyP",
+    "email": "abigailprice901@email.com",
+    "id": 37
+  },
+  {
+    "nickname": "TyD",
+    "email": "tylerdiaz234@email.com",
+    "id": 38
+  },
+  {
+    "nickname": "AnnieW",
+    "email": "annawood567@email.com",
+    "id": 39
+  },
+  {
+    "nickname": "MasonR",
+    "email": "masonrivera890@email.com",
+    "id": 40
+  }
+]

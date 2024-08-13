@@ -1,0 +1,41 @@
+{
+  "name": "iteration-04",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck",
+    "codegen": "turbo codegen",
+    "turbo": "turbo",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "@types/validator": "^13.11.10",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5",
+    "turbo": "latest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@10.2.3",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@hookform/resolvers": "^3.3.4",
+    "@rehooks/local-storage": "^2.4.5",
+    "dayjs": "^1.11.11",
+    "framer-motion": "^11.1.9",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.23.1",
+    "validator": "^13.12.0"
+  }
+}
